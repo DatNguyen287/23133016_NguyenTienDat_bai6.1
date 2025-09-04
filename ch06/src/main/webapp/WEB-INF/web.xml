@@ -12,7 +12,7 @@
     <description></description>
     <display-name>Business</display-name>
     <servlet-name>Business</servlet-name>
-    <servlet-class>controller.Bussiness</servlet-class>
+    <servlet-class>controller.Business</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>Business</servlet-name>
